@@ -84,3 +84,20 @@ body {
 .nav-order :focus {
   background-color: #404bbf;
 }
+
+/* ABOUT BUİSNESS SECOND SECTİON */
+
+.h-part {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.p-part {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
