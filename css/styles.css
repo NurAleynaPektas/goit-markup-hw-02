@@ -135,3 +135,18 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+/*FOOTER PLACE*/
+.footer-place {
+  color: #2e2f42;
+}
+
+.span-studio {
+  color: #2e2f42;
+}
+
+.p-footer {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
