@@ -77,10 +77,10 @@ body {
   cursor: pointer;
 }
 
-.order-button :hover {
+.nav-order :hover {
   background-color: #404bbf;
 }
 
-.order-button :focus {
+.nav-order :focus {
   background-color: #404bbf;
 }
