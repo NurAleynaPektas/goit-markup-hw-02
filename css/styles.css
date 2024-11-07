@@ -4,8 +4,8 @@ body {
   background-color: #ffffff;
 }
 
-.navLogo {
-  font-family: "Raleway", serif;
+.nav-logo {
+  font-family: "Raleway";
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -14,7 +14,7 @@ body {
   color: #4d5ae5;
 }
 
-.nav-studio {
+.studio {
   color: #2e2f42;
 }
 
