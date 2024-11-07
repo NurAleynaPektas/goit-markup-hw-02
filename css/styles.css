@@ -3,3 +3,51 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
+
+.navLogo {
+  font-family: "Raleway";
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.navStudio {
+  color: #2e2f42;
+}
+
+.navStudiolink {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.15;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.navStudiolink :hover {
+  color: #404bbf;
+}
+
+.navStudiolink :focus {
+  color: #404bbf;
+}
+
+.adress {
+  font-style: normal;
+}
+
+.adressMail {
+  font-size: 16px;
+  line-height: 1.15;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.adressMail :hover {
+  color: #404bbf;
+}
+
+.adressMail :focus {
+  color: #404bbf;
+}
