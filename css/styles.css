@@ -136,13 +136,39 @@ body {
   color: #434455;
 }
 
+/*FOURTH SECTİON */
+
+.portfolio {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.h-banking {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.p-app {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
 /*FOOTER PLACE*/
 
 .footer {
   color: #2e2f42;
 }
 
-.span-studio {
+.footer-span {
   color: #2e2f42;
 }
 
